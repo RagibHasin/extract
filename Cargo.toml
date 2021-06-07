@@ -1,0 +1,15 @@
+[package]
+name = "extract"
+version = "0.1.0"
+edition = "2018"
+authors = ["Muhammad Ragib Hasin <ragib.hasin@gmail.com>"]
+license = "ISC"
+
+keywords = ["pattern-matching", "pattern", "rust-patterns"]
+categories = ["rust-patterns"]
+
+repository = "https://github.com/RagibHasin/extract/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
